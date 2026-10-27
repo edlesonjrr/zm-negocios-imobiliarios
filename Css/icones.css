@@ -1,0 +1,7 @@
+/* Font Awesome Free 5.0.9 — https://fontawesome.com
+   Fonts: SIL OFL 1.1; icons: CC BY 4.0. Subconjunto dos seletores do original. */
+@font-face{font-family:"ZM Icons";src:url("../fonts/fa-solid-900.woff2") format("woff2");font-weight:900;font-style:normal;font-display:swap}
+@font-face{font-family:"ZM Brands";src:url("../fonts/fa-brands-400.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
+.icon{font-family:"ZM Icons";font-weight:900;font-style:normal;display:inline-block;line-height:1;-webkit-font-smoothing:antialiased}
+.icon.brand{font-family:"ZM Brands";font-weight:400}
+.icon-location:before{content:"\f3c5"}.icon-envelope:before{content:"\f0e0"}.icon-phone:before{content:"\f095"}.icon-clock:before{content:"\f017"}.icon-instagram:before{content:"\f16d"}.icon-whatsapp:before{content:"\f232"}.icon-rocket:before{content:"\f135"}.icon-eye:before{content:"\f06e"}.icon-thumbs:before{content:"\f164"}.icon-home:before{content:"\f015"}.icon-hand:before{content:"\f4c0"}.icon-doctor:before{content:"\f0f0"}.icon-file:before{content:"\f15c"}.icon-credit:before{content:"\f09d"}.icon-money:before{content:"\f3d1"}.icon-address:before{content:"\f2bb"}.icon-arrow:before{content:"\f061"}.icon-chevron:before{content:"\f078"}.icon-up:before{content:"\f077"}.icon-close:before{content:"\f00d"}.icon-bars:before{content:"\f0c9"}.icon-search:before{content:"\f002"}

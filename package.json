@@ -1,0 +1,11 @@
+{
+  "name": "zm-negocios-imobiliarios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reprodução estática da ZM em HTML, CSS e JavaScript, sem dependências.",
+  "scripts": {
+    "start": "node ferramentas/servidor.mjs",
+    "check": "node --check Js/script.js && node --check ferramentas/servidor.mjs && node --check ferramentas/publicar.mjs",
+    "build": "npm run check && node ferramentas/publicar.mjs"
+  }
+}
